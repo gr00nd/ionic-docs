@@ -10,7 +10,7 @@
   "dependencies": {
     "@ionic/vue": "^7.4.0",
     "@ionic/vue-router": "^7.4.0",
-    "vue": "^3.2.25",
+    "vue": "^3.3.5",
     "vue-router": "4.2.4"
   },
   "devDependencies": {
